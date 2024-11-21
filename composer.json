@@ -1,0 +1,15 @@
+{
+    "name": "cadastro/estudantes",
+    "description": "Cadastro de estudantes",
+    "autoload": {
+        "psr-4": {
+            "Cadastro\\Estudantes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joao Vitor de Oliveira"
+        }
+    ],
+    "require": {}
+}
